@@ -1,0 +1,14 @@
+﻿生成启动时间为 2018/3/14 16:06:21。
+     1>项目“D:\USER\Desktop\Qt Learning  Projects\BasicOpenGL\Test_5_Textures\Test_5_Textures.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\USER\Desktop\Qt Learning  Projects\BasicOpenGL\Debug\Test_5_Textures.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\USER\Desktop\Qt Learning  Projects\BasicOpenGL\Debug\Test_5_Textures.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\USER\Desktop\Qt Learning  Projects\BasicOpenGL\Debug\Test_5_Textures.lib" /MACHINE:X86 Debug\imageloader.obj
+         Debug\main.obj
+         Test_5_Textures.vcxproj -> D:\USER\Desktop\Qt Learning  Projects\BasicOpenGL\Debug\Test_5_Textures.exe
+     1>已完成生成项目“D:\USER\Desktop\Qt Learning  Projects\BasicOpenGL\Test_5_Textures\Test_5_Textures.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.72
