@@ -49,6 +49,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestC_21_Crab Pong", "TestC
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestC_22_OBJ_Loader", "TestC_22_OBJ_Loader\TestC_22_OBJ_Loader.vcxproj", "{FF276EEC-36D3-439A-BE8F-0D50D6FE8E0D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestC_23_EasyCollisionDetection", "TestC_23_EasyCollisionDetection\TestC_23_EasyCollisionDetection.vcxproj", "{4A579D01-79BF-4230-9FE4-391DA93C21F9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -147,6 +149,10 @@ Global
 		{FF276EEC-36D3-439A-BE8F-0D50D6FE8E0D}.Debug|Win32.Build.0 = Debug|Win32
 		{FF276EEC-36D3-439A-BE8F-0D50D6FE8E0D}.Release|Win32.ActiveCfg = Release|Win32
 		{FF276EEC-36D3-439A-BE8F-0D50D6FE8E0D}.Release|Win32.Build.0 = Release|Win32
+		{4A579D01-79BF-4230-9FE4-391DA93C21F9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4A579D01-79BF-4230-9FE4-391DA93C21F9}.Debug|Win32.Build.0 = Debug|Win32
+		{4A579D01-79BF-4230-9FE4-391DA93C21F9}.Release|Win32.ActiveCfg = Release|Win32
+		{4A579D01-79BF-4230-9FE4-391DA93C21F9}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
